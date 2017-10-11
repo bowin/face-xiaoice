@@ -1,8 +1,6 @@
-# face-xiaoice
-微软小冰 人脸评测 接口集合
-
+# 基于微软小冰的人脸评测
+node.js接口调用
 ## init
-node.js required
 ```bash
 yarn 
 ```
